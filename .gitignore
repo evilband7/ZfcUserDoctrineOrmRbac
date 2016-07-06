@@ -104,3 +104,6 @@ fabric.properties
 
 .idea/*
 .idea/**/*
+
+vendor/*
+vendor/**/*
